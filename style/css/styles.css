@@ -1,0 +1,124 @@
+#spruce {
+    background-color: #617178;
+}
+
+#stone {
+    background-color: #819EA8;
+}   
+
+#aegean {
+    background-color: #4E6E81;
+}
+
+#berry {
+    background-color: #4F86F7;
+}
+
+#denim {
+    background-color: #1560BD;
+}
+
+#admiral {
+    background-color: #2C3863;
+}
+
+#artic {
+    background-color: #C6E6FB;
+}
+
+.colorbox {
+    width: 70px;
+    border: solid 3px black;
+}
+
+.font-label-saira-condensed,
+.regular-saira-condensed {
+    font-family: "Saira Condensed";
+    font-weight: 400;
+}
+
+.medium-saira-condensed {
+    font-family: "Saira Condensed";
+    font-weight: 500;
+}
+
+.bold-saira-condensed {
+    font-family: "Saira Condensed";
+    font-weight: 700;
+}
+
+.font-label-teko,
+.regular-teko {
+    font-family: "Teko";
+    font-weight: 400;
+}
+
+.medium-teko {
+    font-family: "Teko";
+    font-weight: 500;
+}
+
+.bold-teko {
+    font-family: "Teko";
+    font-weight: 700;
+}
+
+.font-label-rajdhani,
+.regular-rajdhani {
+    font-family: "Rajdhani";
+    font-weight: 400;
+}
+
+.medium-rajdhani {
+    font-family: "Rajdhani";
+    font-weight: 500;
+}
+
+.bold-rajdhani {
+    font-family: "Rajdhani";
+    font-weight: 700;
+}
+
+.raj-H1 {
+    Font-Weight: 700;
+    Font-Size: 30px;
+    Font-Family: "Rajdhani";
+}
+
+.teko-H2 {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: "Teko";
+}
+
+.saira-p {
+    font-family: "Saira Condensed";
+}
+
+.font-label-moon-dance,
+.regular-moon-dance {
+    font-family: "Moon Dance";
+}
+
+.font-label-zilla-slab {
+    font-family: "Zilla Slab";
+    font-weight: 400;
+}
+
+.reg-italic-zilla {
+    font-family: "Zilla Slab";
+    font-weight: 400;
+    font-style: italic;
+}
+
+.med-italic-zilla {
+    font-family: "Zilla Slab";
+    font-weight: 500;
+    font-style: italic;
+}
+
+.bold-italic-zilla {
+    font-family: "Zilla Slab";
+    font-weight: 700;
+    font-style: italic;
+}
